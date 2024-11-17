@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Resham Bohara.
-- 👀 I’m interested in Cybersecurity (threat analysis, ethical hacking, and incident response), Cloud computing and infrastructure security, Automation using Python and other scripting tools and Solving real-world IT challenges
-- 🌱 I’m currently learning Cloud security and infrastructure, Python for automation and penetration testing and Advanced cybersecurity frameworks.
+- 👀 I’m interested in Cybersecurity (threat analysis, ethical hacking, and incident response), Cloud computing and infrastructure security, Automation using Python and other scripting tools, and Solving real-world IT challenges
+- 🌱 I’m currently learning Cloud security and infrastructure, Python for automation and penetration testing, and Advanced cybersecurity frameworks.
 - 💞️ I want to collaborate on cybersecurity projects, open-source contributions, and innovative IT.
 - 📫 How to reach me Email: bohararaysum14@gmail.com, Linkedin: www.linkedin.com/in/reshambohara
 - 😄 Pronouns: He/him
